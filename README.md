@@ -22,13 +22,13 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-- [] Have Ruby version 2.6.5.
-- [] Have rails version 6.0.2 and above.
+-  Have Ruby version 2.6.5.
+-  Have rails version 6.0.2 and above.
 ### Setup
 - [Clone the repo](https://github.com/Elukoye/rails_model_tutorial.git)
-- [] run bundle install.
-- [] run rails db:setup
-- [] run rails db:migrate 
+-  run bundle install.
+-  run rails db:setup
+-  run rails db:migrate 
 ### Install
 
 ### Usage
