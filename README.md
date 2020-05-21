@@ -1,20 +1,20 @@
 # Rails Model Tutorial
 
-> This project is for an article that I wroteon how to use the  rails console  when working with models error messages in rails .
+> This project is for an article that I wrote on Medium about how to work with the Rails Console when building a rails app.
 
-[Find the article here](https://medium.com)
+[The Ultimate Guide To Using The Rails Console To Test Rails Models.](https://medium.com)
 
 ## It Covers 
 
 -  Basic association methods,
 -  Validation testing,
--  SQLite
+-  SQLite.
 
 ## Built With
 
 - Ruby,
 - Rails frameworks,
-- SQLite
+- SQLite.
 
 
 ## Getting Started
