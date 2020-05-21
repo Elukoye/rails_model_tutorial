@@ -1,8 +1,14 @@
 # Project Name
 
-> This project is for an article that I wrote about how to use rails console  when working with models.It covers basic association methods, validation testing and error messages in rails .
+> This project is for an article that I wroteon how to use the  rails console  when working with models error messages in rails .
 
 [Find the article here](https://medium.com)
+
+## It Covers 
+
+- [] Basic association methods,
+- [] Validation testing,
+- [] SQLite
 
 ## Built With
 
