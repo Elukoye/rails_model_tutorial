@@ -27,17 +27,8 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 - [Clone the repo](https://github.com/Elukoye/rails_model_tutorial.git)
 -  run bundle install.
--  run rails db:setup
+-  run rails db:create
 -  run rails db:migrate 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
 
 ## Authors
 
