@@ -2,6 +2,7 @@
 
 > This project is for an article that I wrote on Medium about how to work with the Rails Console when building a rails app.
 
+## Link to Article  
 [The Ultimate Guide To Using The Rails Console To Test Rails Models.](https://medium.com)
 
 ## It Covers 
