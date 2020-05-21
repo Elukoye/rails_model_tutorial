@@ -1,24 +1,61 @@
-# Rails Model,Association and Validation Tutorial
+# Project Name
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This project is for an article that I wrote about how to use rails console  when working with models.It covers basic association methods, validation testing and error messages in rails .
 
-Things you may want to cover:
+[Find the article here](https://medium.com)
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby,
+- Rails frameworks,
+- SQLite
 
-* Configuration
 
-* Database creation
+## Getting Started
+To get a local copy up and running follow these simple example steps.
 
-* Database initialization
+### Prerequisites
+- [] Have Ruby version 2.6.5.
+- [] Have rails version 6.0.2 and above.
+### Setup
+- [Clone the repo](https://github.com/Elukoye/rails_model_tutorial.git)
+- [] run bundle install.
+- [] run rails db:setup
+- [] run rails db:migrate 
+### Install
 
-* How to run the test suite
+### Usage
 
-* Services (job queues, cache servers, search engines, etc.)
+### Run tests
 
-* Deployment instructions
+### Deployment
 
-* ...
+
+
+## Authors
+
+👤 **Author1**
+
+- Github: [@githubhandle](https://github.com/Elukoye)
+- Twitter: [@twitterhandle](https://twitter.com/Elukoye1)
+- Linkedin: [linkedin](https://linkedin.com/emogene-lukoye)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
