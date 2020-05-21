@@ -1,4 +1,4 @@
-# README
+# Rails Model,Association and Validation Tutorial
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
