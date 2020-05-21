@@ -1,4 +1,4 @@
-# Project Name
+# Rails Model Tutorial
 
 > This project is for an article that I wroteon how to use the  rails console  when working with models error messages in rails .
 
@@ -6,9 +6,9 @@
 
 ## It Covers 
 
-- [] Basic association methods,
-- [] Validation testing,
-- [] SQLite
+-  Basic association methods,
+-  Validation testing,
+-  SQLite
 
 ## Built With
 
