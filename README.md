@@ -47,6 +47,12 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/Elukoye1)
 - Linkedin: [linkedin](https://linkedin.com/emogene-lukoye)
 
+👤 **Author1**
+
+- Github: [@githubhandle](https://github.com/uche-inyama)
+- Twitter: [@twitterhandle](https://twitter.com/euuoc)
+- Linkedin: [linkedin](https://www.linkedin.com/in/uchechukwu-inyama-b3429a105/)
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
