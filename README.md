@@ -3,7 +3,7 @@
 > This project is for an article that I wrote on Medium about how to work with the Rails Console when building a rails app.
 
 ## Link to Article  
-[The Ultimate Guide To Using The Rails Console To Test Rails Models.](https://medium.com)
+[A Step by Step Guide To Using The Rails Console To Test Rails Models, Associations and Validations.](https://medium.com/@lukoyedith/a-step-by-step-guide-to-using-the-rails-console-to-test-rails-models-associations-and-validations-986f4825aadf)
 
 ## It Covers 
 
